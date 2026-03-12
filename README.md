@@ -1,5 +1,9 @@
 # 🏥 Hospital Operation & REvenue Analytics(SQL Project) 
 
+- 📊 [Datasets](./Datasets/)
+- 📦 [Schema](./Schema/Schema.sql)
+- 🧠 [SQL Analysis Queries](./SQL_Queries/)
+
 ## Operations
 
 This Project analyzes hospital operational data using SQL to uncover insights related to patient visits, treatment demand, and revenue generaltion.
